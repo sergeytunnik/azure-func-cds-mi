@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30320.27
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ST.Cds.Func", "ST.Cds.Func\ST.Cds.Func.csproj", "{A00D7029-B8DF-4151-8792-FBA1D4A4AB32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ST.Cds.Func.V3", "ST.Cds.Func.V3\ST.Cds.Func.V3.csproj", "{99D1C0AC-192D-4D44-967C-89BF2AEE2D40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ST.Cds.Func.V3", "ST.Cds.Func.V3\ST.Cds.Func.V3.csproj", "{99D1C0AC-192D-4D44-967C-89BF2AEE2D40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "St.Cds.Func.V4", "St.Cds.Func.V4\St.Cds.Func.V4.csproj", "{7CF801F6-5585-46BF-A135-36F0530C7C3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{99D1C0AC-192D-4D44-967C-89BF2AEE2D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99D1C0AC-192D-4D44-967C-89BF2AEE2D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99D1C0AC-192D-4D44-967C-89BF2AEE2D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF801F6-5585-46BF-A135-36F0530C7C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF801F6-5585-46BF-A135-36F0530C7C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF801F6-5585-46BF-A135-36F0530C7C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF801F6-5585-46BF-A135-36F0530C7C3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
